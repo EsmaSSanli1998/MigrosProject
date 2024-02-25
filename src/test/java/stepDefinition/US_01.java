@@ -1,4 +1,4 @@
-package stepDef;
+package stepDefinition;
 
 public class US_01 {
 

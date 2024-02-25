@@ -218,5 +218,20 @@ public class ReusableMethods {
 
 
 
+
+    /*
+    Robot robot = new Robot();
+        robot.delay(1000);  // Robot'un işlemi gerçekleştirmesi için kısa bir bekleme
+        robot.keyPress(KeyEvent.VK_META);  // Command tuşunu basılı tut
+        robot.keyPress(KeyEvent.VK_V);     // V tuşunu bas
+        robot.keyRelease(KeyEvent.VK_META);  // Command tuşunu serbest bırak
+        robot.keyRelease(KeyEvent.VK_V);     // V tuşunu serbest bırak
+        robot.delay(1000);  // Robot'un işlemi gerçekleştirmesi için kısa bir bekleme
+        robot.keyPress(KeyEvent.VK_ENTER);   // Enter tuşuna bas
+        robot.keyRelease(KeyEvent.VK_ENTER); // Enter tuşunu serbest bırak
+     */
+
+
+
   }
 
